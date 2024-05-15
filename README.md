@@ -7,7 +7,7 @@
  
 - 📫 How to reach me **gagandash002@gmail.com**
 
-- ⚡ Fun fact **Started Coding as a hobby and now its a part of my routine**
+- ⚡ Fun fact **Keen on learning newer skills**
 
 
 
