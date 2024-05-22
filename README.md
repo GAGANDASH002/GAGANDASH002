@@ -23,6 +23,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GAGANDASH002&show_icons=true&locale=en&layout=compact" alt="GAGAN" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GAGANDASH002&show_icons=true&locale=en" alt="GAGAN" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GAGANDASH002&" alt="Gagan Dash" /></p>
