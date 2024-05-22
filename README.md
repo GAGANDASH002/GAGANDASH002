@@ -2,7 +2,7 @@
 <h1 align="center">Hey!!<br>
   This is Gagan Dash</h1>
 <h3 align="center">Exploring domains and learning new ideas</h3>
-<img align="right" alt="Coding" width="400" height="500" src="https://camo.githubusercontent.com/1c274f333634fe7138b466ad1756951cddc28a4bb18f3874c6c3100b5a643f0b/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067">
+<img align="right" alt="Coding" width="600" height="500" src="https://camo.githubusercontent.com/1c274f333634fe7138b466ad1756951cddc28a4bb18f3874c6c3100b5a643f0b/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067">
 -> 🌱 I’m currently learning **HTML,JS,CSS,JAVA and Python**
  
 - 📫 How to reach me **gagandash002@gmail.com**
@@ -23,6 +23,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GAGANDASH002&show_icons=true&locale=en&layout=compact" alt="GAGAN" /></p>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GAGANDASH002&show_icons=true&locale=en" alt="GAGAN" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GAGANDASH002&" alt="Gagan Dash" /></p>
