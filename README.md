@@ -2,7 +2,7 @@
 <h1 align="center">Hey!!<br>
   This is Gagan Dash</h1>
 <h3 align="center">Exploring domains and learning new ideas</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4592034aa2947db1214599a3079a27a8ae0e41552bdf88736c634e3fef5360c9/68747470733a2f2f7777772e6161676e69612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f33393939382d7765622d646576656c6f706d656e742e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1c274f333634fe7138b466ad1756951cddc28a4bb18f3874c6c3100b5a643f0b/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067">
 -> 🌱 I’m currently learning **HTML,JS,CSS,JAVA and Python**
  
 - 📫 How to reach me **gagandash002@gmail.com**
