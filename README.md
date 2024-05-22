@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966)](https://rishavchanda.io)
+<p  align="center"> <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="350" width="650" alt="Header" /> </p>
 <h1 align="center">Hey!!<br>
   This is Gagan Dash</h1>
 <h3 align="center">Exploring domains and learning new ideas</h3>
