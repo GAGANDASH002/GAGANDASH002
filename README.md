@@ -21,6 +21,10 @@
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="javascript" width="40" height="40"/> </a>
   <a href ="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/></a>
     <a href ="https://www.pngegg.com/en/search?q=bootstrap+Logo" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png" alt="Bootstrap" width="40" height="40"/></a>
+        <a href ="[https://stackoverflow.com/questions/44336201/opencvpython-imread-reads-wrong-color](https://www.pngegg.com/en/png-hwzso)" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/978/465/png-clipart-learning-opencv-computer-vision-machine-learning-c-robotics-text-computer-thumbnail.png" alt="" width=openCV"40" height="40"/></a>
+               <a href ="https://www.pngegg.com/en/search?q=tkinter" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/679/344/png-clipart-wing-ide-integrated-development-environment-python-computer-software-eric-raspberry-miscellaneous-monochrome-thumbnail.png" alt="" width=Tkinter"40" height="40"/></a>
+        
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GAGANDASH002&show_icons=true&locale=en&layout=compact" alt="GAGAN" /></p>
