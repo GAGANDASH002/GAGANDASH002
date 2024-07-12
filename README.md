@@ -3,7 +3,8 @@
   This is Gagan Dash</h1>
 <h3 align="center">Exploring domains and learning new ideas</h3>
 <img align="right" alt="Coding" width="400"src="https://camo.githubusercontent.com/1c274f333634fe7138b466ad1756951cddc28a4bb18f3874c6c3100b5a643f0b/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067">
--> 🌱 I’m currently learning **HTML,JS,CSS,JAVA and Python**
+
+->🌱 I’m currently learning **ReactJS and MongoDB**
  
 - 📫 How to reach me **gagandash002@gmail.com**
 
