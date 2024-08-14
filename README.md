@@ -25,7 +25,6 @@
     <a href="[https://www.w3schools.com/css/](https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png)" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png" alt="React" width="50" height="50"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
 <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="50" height="50" />
-  <br/>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="Bootstrap" width="50" height="50"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" alt="Tailwindcss" width="50" height="50"/> </a>
         <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="50" height="50"/> </a>
