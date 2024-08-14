@@ -12,7 +12,7 @@
 
 
 
-<h3 align="left">Languages </h3>
+<h3 align="left">Tech Stack: </h3>
 
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="css3" width="40" height="50"/> </a> 
@@ -22,13 +22,11 @@
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="javascript" width="50" height="50"/> </a>
   <a href ="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50" height="50"/></a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"  alt="mySQL" width="50" height="50"/> </a>
-      
-       
-</p>
-<h3 align="left">Libraries and Frameworks: </h3>
-<p align='left'>
     <a href="[https://www.w3schools.com/css/](https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png)" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png" alt="React" width="50" height="50"/> </a> 
-       <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="Bootstrap" width="50" height="50"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
+<img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="50" height="50" />
+  <br/>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="Bootstrap" width="50" height="50"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" alt="Tailwindcss" width="50" height="50"/> </a>
         <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="50" height="50"/> </a>
 </p>
