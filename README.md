@@ -1,8 +1,8 @@
-<p  align="center"> <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="350" width="650" alt="Header" /> </p>
-<h1 align="center">Hey!!<br>
-  This is Gagan Dash</h1>
-<h3 align="center">Exploring domains and learning new ideas</h3>
-<img align="right" alt="Coding" width="400"src="https://camo.githubusercontent.com/1c274f333634fe7138b466ad1756951cddc28a4bb18f3874c6c3100b5a643f0b/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067">
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gagan+Dash!;" />
+</h1>
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
  
@@ -12,24 +12,22 @@
 
 
 
-<h3 align="left">Tech Stack: </h3>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-2ea44f?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white) ![tailwind](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white) ![appwrite](https://img.shields.io/badge/appwrite-black?style=for-the-badge&logo=appwrite&logoColor=%23FD366E) ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white) ![mysql](https://img.shields.io/badge/mysql-skyblue?style=for-the-badge&logo=mysql&logoColor=black) ![opencv](https://img.shields.io/badge/opencv-peach?style=for-the-badge&logo=opencv&logoColor=white) ![postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white) ![vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white) ![mongodb](https://img.shields.io/badge/mongodb-darkgreen?style=for-the-badge&logo=mongodb&logoColor=green)
 
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/html5-logo.png" alt="html5" width="40" height="50"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="css3" width="40" height="50"/> </a> 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="javascript" width="50" height="50"/> </a>
-    <a href="[https://www.w3schools.com/css/](https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png)" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png" alt="React" width="50" height="50"/> </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
-<img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="50" height="50" />
-   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="Bootstrap" width="50" height="50"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" alt="Tailwindcss" width="50" height="50"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" alt="java" width="50" height="50"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" alt="python" width="50" height="50"/> </a>
-  <a href ="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50" height="50"/></a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"  alt="mySQL" width="50" height="50"/> </a>
-        <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="50" height="50"/> </a>
-</p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/GAGANDASH002/GAGANDASH002/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GAGANDASH002&show_icons=true&locale=en&layout=compact" alt="GAGAN" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GAGANDASH002&show_icons=true&locale=en" alt="GAGAN" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GAGANDASH002&" alt="Gagan Dash" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GAGANDASH002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GAGANDASH002&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GAGANDASH002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=GAGANDASH002&icon=0&color=0)](https://visitcount.itsvg.in)
