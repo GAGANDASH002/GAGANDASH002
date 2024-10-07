@@ -14,7 +14,7 @@
  
 - 📫 How to reach me?? **gagandash002@gmail.com**
 
-- ⚡ Fun fact : **likes reading self help books,travel,and movies**
+- ⚡ Hobbies : **I like to read self help books,travel,and watch movies**
 
 
 
