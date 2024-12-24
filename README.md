@@ -14,7 +14,7 @@
  
 - 📫 How to reach me?? **gagandash002@gmail.com**
 
-- ⚡ Hobbies : **I like to read self help books,travel,and watch movies**
+- ⚡ Hobbies : **Reading books, travel, and watching movies**
 
 
 
