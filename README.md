@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gagan+Dash!;" />
 </h1> 
 
-- 🌱 I’m currently learning **MERN Stack Web Development**
+- 🌱 A passionate Full Stack Dev and Cybersecurity enthusiast
  
 - 📫 How to reach me?? **gagandash002@gmail.com**
 
