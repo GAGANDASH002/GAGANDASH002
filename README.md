@@ -4,8 +4,8 @@
   
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://i.pinimg.com/736x/af/34/0f/af340f682940be93a688853d8d9b927f.jpg" width="500">
-  <img src="https://i.pinimg.com/736x/a2/7c/fb/a27cfb4e5b0f87c61c8b9d231e64cde7.jpg" width="500">
+  <img src="https://i.pinimg.com/736x/af/34/0f/af340f682940be93a688853d8d9b927f.jpg" width="200">
+  <img src="https://i.pinimg.com/736x/a2/7c/fb/a27cfb4e5b0f87c61c8b9d231e64cde7.jpg" width="200">
 </div>
 
 <br><br>
