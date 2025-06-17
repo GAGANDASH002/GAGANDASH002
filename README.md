@@ -3,7 +3,11 @@
    
   
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="1000">
+<div style="display: flex; gap: 10px;">
+  <img src="https://i.pinimg.com/736x/af/34/0f/af340f682940be93a688853d8d9b927f.jpg" width="500">
+  <img src="https://i.pinimg.com/736x/a2/7c/fb/a27cfb4e5b0f87c61c8b9d231e64cde7.jpg" width="500">
+</div>
+
 <br><br>
 
 <h1 align="center">
